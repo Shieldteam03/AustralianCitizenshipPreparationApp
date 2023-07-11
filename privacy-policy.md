@@ -1,5 +1,4 @@
-Privacy Policy for Australian Citizenship Preparation Test App
-
+test
 Effective Date: June 19th 2023
 
 This Privacy Policy governs the manner in which the Australian Citizenship Preparation Test App ("the App") collects, uses, maintains, and discloses information collected from its users. This policy applies to the App and all related services offered.
